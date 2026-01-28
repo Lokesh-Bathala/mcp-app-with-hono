@@ -1,5 +1,5 @@
 {
-  "name": "my-mcp-app",
+  "name": "mcp-app-with-hono",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
