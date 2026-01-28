@@ -6,8 +6,6 @@ The official examples use Express, but this project demonstrates how to build MC
 
 ## Demo
 
-- <https://mcp-app-with-hono.yusukebe.workers.dev/>
-
 ![Demo](demo.gif)
 
 ## Setup
