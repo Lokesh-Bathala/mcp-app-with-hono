@@ -1,4 +1,4 @@
-# MCP Apps with Hono
+# MCP App with Hono
 
 Experimental implementation of [MCP Apps](https://github.com/modelcontextprotocol/ext-apps) using Hono and Cloudflare Workers with [MCP TypeScript SDK v2](https://github.com/modelcontextprotocol/typescript-sdk).
 
